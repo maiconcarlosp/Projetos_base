@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("woff2/Inter-Regular.woff2") format("woff2"),
+       url("woff2/Inter-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("woff2/Inter-Italic.woff2") format("woff2"),
+       url("woff2/Inter-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("woff2/Inter-Medium.woff2") format("woff2"),
+       url("woff2/Inter-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("woff2/Inter-MediumItalic.woff2") format("woff2"),
+       url("woff2/Inter-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("woff2/Inter-SemiBold.woff2") format("woff2"),
+       url("woff2/Inter-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-style:  italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("woff2/Inter-SemiBoldItalic.woff2") format("woff2"),
+       url("woff2/Inter-SemiBoldItalic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Whereby Condensed";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("woff2/WherebyRoslindaleDisplayCondensed-Regular.woff2") format("woff2"),
+         url("woff2/WherebyRoslindaleDisplayCondensed-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Whereby Text";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("woff2/WherebyRoslindaleText-Regular.woff2") format("woff2"),
+         url("woff2/WherebyRoslindaleText-Regular.woff") format("woff");
+}

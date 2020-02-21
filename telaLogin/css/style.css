@@ -1,0 +1,23 @@
+#videoElement {
+	width: 400px;
+	height: 280px;
+	background-color: #666;
+}
+#my_camera {
+	width: 400px;
+	height: 300px;
+}
+#janela {
+	height: 280px;
+	width: 370px;
+	border-radius: 0px;
+}
+#alinhamento {
+	height: 300px;
+}
+#background{
+	background-color: #21316D;
+}
+button{
+/*background-color: #46b8da !important;*/
+}
